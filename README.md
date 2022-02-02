@@ -21,29 +21,74 @@ margin: 4rem 0 2.5rem;
 
 # Todos
 
-[ ] - installing dependencies
-[ ] - `npm install` or `yarn`
-[ ] - `cd main && npm install` or `cd main && yarn`
+## install
 
-[ ] - Rename libray-name find all and replace to your libray name
+#### [ ] - installing dependencies
 
-### start
-[ ] - `cd main && yarn dev` or `cd main && npm run dev`
+##### you can use yarn or npm to your choice we will use yarn
 
+#### [ ] - install on root folder
 
-### build
-[ ] - in root folder run `npm run build` or `yarn build`
-[ ] - npm login
-[ ] - npm version major # or minor or patch
-[ ] - npm publish
+```shell
+yarn
+```
 
-### documentatio
+#### [ ] - install for react app
+
+```shell
+  cd main && yarn
+```
+
+#### [ ] - Rename library-name find all and replace to your library name
+
+## start
+
+#### [ ] - run the app
+
+```shell
+  cd main && yarn dev
+```
+
+## build
+
+#### [ ] - in root folder run
+
+```shell
+  yarn build
+```
+
+#### [ ] - login to npm
+
+```shell
+  npm login
+```
+
+#### commit your changes then prepare for publish
+
+#### [ ] - update the version of package.json
+
+```shell
+  npm version major # or minor or patch
+```
+
+#### [ ] - publish to npm
+
+```shell
+npm publish
+```
+
+## documentation
 
 ```shell
   pip3 install mkdocs  mkdocs-material mkdocs-macros-plugin
 ```
 
-[ ] - mkdocs server to see documentation
+#### [ ] - serve documenation from mkdocs
 
-### deploy to gh-pages
-[ ] - github settings then turn on gh-pages choose gh-pages branch done.
+```shell
+mkdocs server to see documentation
+```
+
+## deploy to gh-pages
+
+#### [ ] - github settings then turn on gh-pages choose gh-pages branch done.
