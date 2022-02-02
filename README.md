@@ -20,6 +20,10 @@ margin: 4rem 0 2.5rem;
 </a>
 
 # Todos
+## clone
+```shell
+git clone https://github.com/LeulAria/create-react-typescitpt-library-with-vite.git your-folder-name
+```
 
 ## install
 
