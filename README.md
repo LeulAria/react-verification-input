@@ -18,3 +18,32 @@ margin: 4rem 0 2.5rem;
 <a href="https://leularia.github.io/library-name/">
   <p align="center">Library Description Text!</p>
 </a>
+
+# Todos
+
+[ ] - installing dependencies
+[ ] - `npm install` or `yarn`
+[ ] - `cd main && npm install` or `cd main && yarn`
+
+[ ] - Rename libray-name find all and replace to your libray name
+
+### start
+[ ] - `cd main && yarn dev` or `cd main && npm run dev`
+
+
+### build
+[ ] - in root folder run `npm run build` or `yarn build`
+[ ] - npm login
+[ ] - npm version major # or minor or patch
+[ ] - npm publish
+
+### documentatio
+
+```shell
+  pip3 install mkdocs  mkdocs-material mkdocs-macros-plugin
+```
+
+[ ] - mkdocs server to see documentation
+
+### deploy to gh-pages
+[ ] - github settings then turn on gh-pages choose gh-pages branch done.
