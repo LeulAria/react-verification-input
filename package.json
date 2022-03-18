@@ -1,17 +1,18 @@
 {
-  "name": "library-name",
+  "name": "react-verification-input",
   "version": "0.0.1",
   "main": "lib/index.js",
   "private": false,
   "description": "library description.",
   "types": "lib",
   "scripts": {
+    "dev": "cd ./main && yarn run dev",
     "clean": "rimraf lib/",
-    "copy-files": "copyfiles -f \"main/src/library-name/**/*.html\" \"main/src/library-name/**/*.css\" lib",
+    "copy-files": "copyfiles -f \"main/src/react-verification-input/**/*.html\" \"main/src/react-verification-input/**/*.css\" lib",
     "build": "yarn clean && tsc -p . && yarn copy-files"
   },
   "keywords": [],
-  "author": "Author",
+  "LeulAria": "LeulAria",
   "license": "ISC",
   "peerDependencies": {
     "react": ">=16.3.0"
@@ -21,5 +22,5 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.3.5"
   },
-  "repository": "Author/library-name"
+  "repository": "LeulAria/react-verification-input"
 }

@@ -1,0 +1,88 @@
+.code-input {
+  width: 40px;
+  height: 40px;
+  font-size: 1rem;
+  transition: all .064s ease-in
+}
+
+/* underlined style */
+.code-input-underlined {
+  border: none;
+  margin: 5px;
+  outline: none;
+  text-align: center;
+  border-bottom: 3px solid #ccc;
+}
+
+.code-input-underlined:focus {
+  border-bottom-color: #45B;
+}
+
+
+/* outlined style */
+.code-input-outlined {
+  width: 37px;
+  border: none;
+  margin: 5px;
+  outline: none;
+  border-radius: 15px;
+  text-align: center;
+  border: 3px solid #ccc;
+}
+
+.code-input-outlined:focus {
+  border-color: #45B;
+}
+
+/* circled style */
+.code-input-circled {
+  width: 43px;
+  height: 45px;
+  border: none;
+  margin: 5px;
+  outline: none;
+  background: #45B;
+  color: #FFF;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.code-input-circled:focus {
+  background: #fff;
+  color: #333 !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.167);
+}
+
+/* squared style */
+.code-input-squared {
+  width: 43px;
+  height: 45px;
+  border: none;
+  margin: 5px;
+  outline: none;
+  color: #FFF;
+  text-align: center;
+  background: #020C31;
+}
+
+.code-input-squared:focus {
+  background: #202A50;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.167);
+}
+
+/* squared style */
+.code-input-dotted {
+  width: 43px;
+  height: 45px;
+  border: none;
+  margin: 5px;
+  outline: none;
+  color: #FFF;
+  text-align: center;
+  background: #020C31;
+}
+
+.code-input-dotted:focus {
+  background: #202A50;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.167);
+}

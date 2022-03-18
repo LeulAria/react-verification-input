@@ -1,13 +1,13 @@
-site_name: library-name
-site_url: https://Author.github.io/library-name/
-site_author: Author
+site_name: react-verification-input
+site_url: https://LeulAria.github.io/react-verification-input/
+site_LeulAria: LeulAria
 site_description: >-
-  library-name is a react hooks for interacting with fireabase eaily.
-repo_name: Author/library-name
-repo_url: https://github.com/Author/library-name
+  react-verification-input is a react hooks for interacting with fireabase eaily.
+repo_name: LeulAria/react-verification-input
+repo_url: https://github.com/LeulAria/react-verification-input
 edit_uri: ""
 
-copyright: Copyright &copy; 2021 library-name Author
+copyright: Copyright &copy; 2021 react-verification-input LeulAria
 
 theme:
   name: material

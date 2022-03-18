@@ -3,7 +3,7 @@
  * A lightweight, modern and extensible animated terminal window, using
  * async/await.
  *
- * @author Ines Montani <ines@ines.io>
+ * @LeulAria Ines Montani <ines@ines.io>
  * @version 0.0.1
  * @license MIT
  */
