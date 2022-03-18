@@ -28,7 +28,7 @@ const index = ({
   initialValue,
   styleType = "outlined",
 }: Props) => {
-  const refs = useRef([]);
+  const refs = useRef<HTMLInputElement[]>([]);
   const [values, setValues] = useState<(string | null)[]>([
     ...Array(fields).fill(null),
   ]);
@@ -111,7 +111,7 @@ const index = ({
             onKeyDown={(e) => handleKeyDown(e, i)}
             className={`code-input ${styleTypes[styleType]} ${customClass}`}
             ref={(element) => {
-              refs.current[i] = element;
+              if (refs?.current[i] && element) refs.current[i] = element;
             }}
           />
         ))}

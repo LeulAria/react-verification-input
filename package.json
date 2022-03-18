@@ -1,6 +1,6 @@
 {
   "name": "react-verification-input",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "private": false,
   "description": "library description.",
