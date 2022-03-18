@@ -111,7 +111,7 @@ const index = ({
             onKeyDown={(e) => handleKeyDown(e, i)}
             className={`code-input ${styleTypes[styleType]} ${customClass}`}
             ref={(element) => {
-              if (refs?.current[i] && element) refs.current[i] = element;
+              if (element) refs.current[i] = element;
             }}
           />
         ))}
