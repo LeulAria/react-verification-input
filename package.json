@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "private": false,
-  "description": "library description.",
+  "description": "A react component for verification input",
   "types": "lib",
   "scripts": {
     "dev": "cd ./main && yarn run dev",
