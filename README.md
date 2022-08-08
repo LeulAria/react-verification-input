@@ -19,8 +19,9 @@ margin: 4rem 0 2.5rem;
   <p align="center">Verification input react component library!</p>
 </a>
 
-
+[check out the docs](https://leularia.github.io/react-verification-input)
+![react verification input ](https://github.com/LeulAria/react-verification-input/blob/main/assets/demo.png)
 
 
 ##Contributing
-Contributions welcome ❤️. If you want to contribute, feel free to have a look at the (contribution)[https://github.com/LeulAria/react-verification-input/CONTRIBUTING.md] guide.
+Contributions welcome ❤️. If you want to contribute, feel free to have a look at the [contribution guide](https://github.com/LeulAria/react-verification-input/CONTRIBUTING.md).
