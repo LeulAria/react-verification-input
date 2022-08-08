@@ -7,7 +7,7 @@ margin: 4rem 0 2.5rem;
 ">React Verification Input</b></h1>
 <p align="center">
   <img src="https://img.shields.io/bundlephobia/minzip/react-verification-input?style=flat-square" alt="package size" />
-  <img src="https://img.shields.io/npm/dw/react-verification-input?style=flat-square" alt="npm version" />
+  <img src="https://img.shields.io/npm/dw/react-verification-input-aria?style=flat-square" alt="npm version" />
   <img src="https://img.shields.io/jsdelivr/npm/hm/react-verification-input?style=flat-square" alt="downloads per month" />
 </p>
 <p align="center">
