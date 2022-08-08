@@ -23,7 +23,7 @@ margin: 4rem 0 2.5rem;
 <br />
 
 <p align="center">
-  ![react verification input ](https://github.com/LeulAria/react-verification-input/blob/main/assets/demo.png)
+  <img src="https://github.com/LeulAria/react-verification-input/blob/main/assets/demo.png" alt="demo" />
 </p>
 
 ##Contributing
