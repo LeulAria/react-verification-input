@@ -35,13 +35,13 @@ theme:
       quote: octicons/quote-16
   palette:
     - scheme: default
-      primary: purple
+      primary: indigo
       accent: yellow
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
     - scheme: slate
-      primary: purple
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/lightbulb-outline
